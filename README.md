@@ -1,6 +1,12 @@
 # ImaginAIry: AI-Powered Image Generator  
 
 **ImaginAIry** is an innovative application built on the **Stable Diffusion** pipeline, integrating the open-source fine-tuned model **[cagliostrolab--animagine-xl-3.1](https://huggingface.co/cagliostrolab/animagine-xl-3.1)** from Hugging Face. Designed to transform text into visually stunning images, **ImaginAIry** enables users to bring their ideas to life through a user-friendly interface powered by **Gradio**.  
+![plot0](https://github.com/user-attachments/assets/3978ca50-3ae6-4393-b1d9-ec6004aab669)
+![plot1](https://github.com/user-attachments/assets/2d8356bd-acc4-47fb-bab6-2b3eef1e14f7)
+![plot2](https://github.com/user-attachments/assets/676c8d52-7bd6-4518-b7b7-25e729284af6)![plot3](https://github.com/user-attachments/assets/e399dcfc-3906-400a-a3d9-2d5b5856cc97)
+![plot3](https://github.com/user-attachments/assets/294f2657-6723-492f-aea1-64af118c8872)
+
+
 
 ---
 
