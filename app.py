@@ -325,8 +325,8 @@ else:
 # Process styles
 styles = {k["name"]: (k["prompt"], k["negative_prompt"]) for k in style_list}
 
-css_path = "style.css"
-with gr.Blocks(css=css_path) as demo:
+css_path = './style.css'
+with gr.Blocks(css= css_path) as demo:
     gr.Markdown("<h1 class='gradient-text'>imaginAIry</h1>")
     with gr.Row():
         with gr.Column(scale=2):
