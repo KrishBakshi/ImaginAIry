@@ -52,4 +52,4 @@
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/ImaginAIry.git  
+   git clone https://github.com/yourusername/ImaginAIry.git
